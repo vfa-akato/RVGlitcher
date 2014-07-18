@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>913C8546-D8FA-476B-B52A-D1CBAC8E19E0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RVGlitcher</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0C782953-8ADB-416B-94DD-6E32B876CB32</key>
+		<string>https://github.com/slowbirds/RVGlitcher.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RVGlitcher/RVGlitcher.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0C782953-8ADB-416B-94DD-6E32B876CB32</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/slowbirds/RVGlitcher.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0C782953-8ADB-416B-94DD-6E32B876CB32</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0C782953-8ADB-416B-94DD-6E32B876CB32</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RVGlitcher</string>
+		</dict>
+	</array>
+</dict>
+</plist>
